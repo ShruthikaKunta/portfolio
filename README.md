@@ -139,7 +139,3 @@ With your actual image path or URL:
 
 MIT
 
-## Links
-
-- **GitHub Repository**: [your-username/portfolio](https://github.com/your-username/portfolio)
-- **Live Site**: [your-username.github.io/portfolio](https://your-username.github.io/portfolio)
