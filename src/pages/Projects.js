@@ -18,8 +18,7 @@ function Projects() {
       title: 'Student Information System (Web Application)',
       description: 'Built a dynamic web-based system to manage student records, attendance, and results. Implemented full CRUD operations using JSP, Servlets, and MySQL with a normalized relational database. Designed role-based authentication for Admin and Student roles and deployed on Apache Tomcat server.',
       tech: ['Java', 'JSP', 'Servlets', 'MySQL', 'Apache Tomcat'],
-      github: 'https://github.com/your-username/student-information-system',
-      image: 'https://via.placeholder.com/600x350/1e293b/ec4899?text=Student+Management',
+
       year: '2024',
       type: 'Academic Project'
     }
